@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @erin8jenning948
+- 👀 I’m interested in Computer Science enthusiast honing Python skills.
+- 🌱 Fascinated by AI and machine learning. Always eager to learn and innovate.
